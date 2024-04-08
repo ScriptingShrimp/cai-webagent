@@ -1,1 +1,3 @@
-crewai==0.28.1
+crewai
+duckduckgo-search
+langchain_community
